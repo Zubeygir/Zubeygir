@@ -23,5 +23,4 @@ React · Next.js · TypeScript · .NET / C# · Python · SwiftUI · SQL
 
 ### Contact
 
-Open to freelance projects.<br>
 [Portfolio](https://zubeyiralidemir.vercel.app) · [LinkedIn](https://www.linkedin.com/in/zubeyiralidemir/) · [Email](mailto:zubeyirad@gmail.com)
