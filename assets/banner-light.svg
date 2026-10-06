@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-labelledby="title">
+  <title id="title">Zübeyir Ali Demir, Software Developer</title>
+  <defs>
+    <clipPath id="frame">
+      <rect width="1000" height="280" rx="20"/>
+    </clipPath>
+    <radialGradient id="glow" cx="910" cy="30" r="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a8823a" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#a8823a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rule { stroke-dasharray: 120; stroke-dashoffset: 120; animation: draw 1.2s cubic-bezier(.16, 1, .3, 1) .3s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .rule { animation: none; stroke-dashoffset: 0; } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="280" fill="#efe6cf"/>
+    <rect width="1000" height="280" fill="url(#glow)"/>
+    <g fill="none" stroke="#a8823a">
+      <circle cx="910" cy="30" r="60" stroke-opacity="0.45"/>
+      <circle cx="910" cy="30" r="110" stroke-opacity="0.34"/>
+      <circle cx="910" cy="30" r="160" stroke-opacity="0.23"/>
+      <circle cx="910" cy="30" r="210" stroke-opacity="0.13"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="19.5" fill="none" stroke="#211d16" stroke-opacity="0.22"/>
+  <text class="mono" x="64" y="88" font-size="20" letter-spacing="4" fill="#7d5f22">SOFTWARE DEVELOPER</text>
+  <text class="sans" x="61" y="166" font-size="72" font-weight="600" letter-spacing="-1.5" fill="#201c14">Zübeyir Ali Demir</text>
+  <line class="rule" x1="64" y1="198" x2="184" y2="198" stroke="#a8823a" stroke-width="3"/>
+  <text class="sans" x="64" y="240" font-size="22" fill="#211d16" fill-opacity="0.82">Istanbul, Türkiye · Open to freelance projects</text>
+</svg>
