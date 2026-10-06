@@ -8,7 +8,7 @@ Hi, I'm Zübeyir, a software developer based in Istanbul.
 
 I build web interfaces with React, Next.js and TypeScript, and reach for .NET or Python when the job needs a backend or a model behind it. What I care about most is how the decisions behind an interface end up feeling to the person using it.
 
-Before Computer Engineering I spent some time in medical school. I was always the type to get stuck on details; I just changed the field. I graduated from Istanbul University-Cerrahpaşa and now work freelance.
+Before Computer Engineering I spent some time in medical school. I was always the type to get stuck on details; I just changed the field. I graduated from Istanbul University-Cerrahpaşa.
 
 ### Experience
 
